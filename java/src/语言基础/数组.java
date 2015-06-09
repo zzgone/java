@@ -6,6 +6,7 @@ public class 数组 {
 
 	/**
 	 * 数组没什么好记的
+	 * 实践中灵活操作数组即可
 	 * 
 	 * */
 	public static void main(String args[]) {
