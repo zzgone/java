@@ -2,6 +2,7 @@ package 语言基础;
 
 public class GC垃圾回收机制 {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		/**
 		 * 垃圾回收

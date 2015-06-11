@@ -1,4 +1,4 @@
-package 接口抽象类继承;
+package 接口抽象类;
 
 public abstract class 父抽象类 {
 
@@ -22,6 +22,7 @@ public abstract class 父抽象类 {
 	public static int age;
 	public static final int money = 999999999;
 	
+	@SuppressWarnings("unused")
 	private void getBackground(){
 		
 	}

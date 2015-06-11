@@ -1,4 +1,4 @@
-package 接口抽象类继承;
+package 接口抽象类;
 
 public interface 父接口 {
 	/**

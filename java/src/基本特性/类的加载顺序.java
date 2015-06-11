@@ -1,4 +1,4 @@
-package 杂乱问题_未整理;
+package 基本特性;
 
 public class 类的加载顺序 {
 	/** -- 未继承

@@ -1,4 +1,4 @@
-package 接口抽象类继承;
+package 接口抽象类;
 
 public interface 子接口 extends 父接口 {
 	//神马也没有

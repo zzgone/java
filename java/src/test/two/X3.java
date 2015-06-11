@@ -1,8 +1,8 @@
 package test.two;
 
 import test.three.X2;
-import 接口抽象类继承.子接口;
-import 接口抽象类继承.父接口;
+import 接口抽象类.子接口;
+import 接口抽象类.父接口;
 
 
 public interface X3 extends X2{

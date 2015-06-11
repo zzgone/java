@@ -57,7 +57,9 @@ public class 修饰符与关键字 {
 	 * 	异常处理语句中的一部分，表示总是执行
 	 * finalize
 	 *  是Oject类的一个方法，在垃圾回收执行的时候会调用被回收对象的此方法，可以覆盖此方法提供垃圾收集时的其他资源回收，例如关闭文件等
-	 * 
+	 * super
+	 * 	调用父类构造方法   super(参数列表);
+	 * 	调用父类成员方法，成员变量  super.age  super.name   super.getMoney();
 	 * */
 	
 	
