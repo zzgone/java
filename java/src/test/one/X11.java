@@ -1,8 +1,6 @@
-package test;
+package test.one;
 
-public class A3 {
-
-
+public class X11 {
 	public static void main(String[] args) {
 	}
 }
