@@ -2,6 +2,13 @@ package 字符串处理;
 
 public class 字符串处理 {
 
+	/**
+	 * 字符串的非空校验要优先判断字符串是否=null
+	 * 
+	 * */
+	
+	
+	
 	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		String str = "   we are students ha 1 ha 2 ha 3 ha 4  ";
