@@ -1,4 +1,4 @@
-package 内部类;
+package 内部类_待以后研究;
 
 public class 暂时不写内部类但很重要 {
 

@@ -1,4 +1,4 @@
-package 设计模式;
+package 设计模式_待补充;
 
 public class 单例模式 {
 
