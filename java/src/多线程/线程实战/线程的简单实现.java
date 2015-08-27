@@ -443,7 +443,7 @@ class ThreadSynchronizedAndDeadlock implements Runnable {
 		Thread t2 = new Thread(tsd);
 		Thread t3 = new Thread(tsd);
 		t1.start();
-		t2.start();
+		t2.start(); 
 		t3.start();
 	}
 }
