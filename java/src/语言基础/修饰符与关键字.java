@@ -60,6 +60,10 @@ public class 修饰符与关键字 {
 	 * super
 	 * 	调用父类构造方法   super(参数列表);
 	 * 	调用父类成员方法，成员变量  super.age  super.name   super.getMoney();
+	 * native
+	 * 调用一个由“可能非java语言所提供的方法”来访问硬件层，具体如何调用和写百度知道..
+	 * 	一个native方法就是一个Java调用非Java代码的接口。一个native方法是指该方法的实现由非Java语言实现，比如用C或C++实现
+	 *  在定义一个native方法时，并不提供实现体（比较像定义一个Java Interface），因为其实现体是由非Java语言在外面实现的。 
 	 * */
 	
 	
